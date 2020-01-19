@@ -1,3 +1,3 @@
 # djangobasic1
-djangowithmosh1
-followed mosh hamedani & built this very basic online shob project using django
+
+Followed mosh hamedani on youtube & built this very basic online shob project using django.
